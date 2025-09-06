@@ -8,7 +8,8 @@
 * **Descripción:** Implementación de pruebas unitarias para un sistema de tareas.
 * **Objetivo:** Validar funciones básicas aplicando TDD (Red–Green–Refactor).
 * **Tecnologías:** Java 17, JUnit 5, Mockito, Hamcrest.
-* **Repositorio:** [Actividad 1 - Sistema Gestión de Productos TDD](https://github.com/kenkairon/M-dulo3-Sesion1-Actividad1-SistemaGestionProductosTDD)
+* **Repositorio 1:** [Actividad 1 - Sistema Gestión de Productos TDD](https://github.com/kenkairon/M-dulo3-Sesion1-Actividad1-SistemaGestionProductosTDD)
+* **Repositorio 2:** [Actividad 2 -Testing de un Servicio de Descuentos](git@github.com:kenkairon/PortafolioTesting.git )
 * **Reflexión:** *Aprendí a diferenciar el sujeto bajo prueba y dependencias usando mocks. Mejoraría la cobertura con más casos negativos.*
 
 ### 2. 🌐 Automatización Funcional con Selenium (Módulo 4)
