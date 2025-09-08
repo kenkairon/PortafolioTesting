@@ -13,6 +13,8 @@
 
 - **Actividad 2:** [Testing de un Servicio de Descuentos](https://github.com/kenkairon/TestingDescuentoEquipo4/tree/main)  
 
+- **Actividad 3:** [Sitema de Gestión con TDD](https://github.com/kenkairon/Modulo3-Sesion2-Actividad3-SistemaGestionProductosTDD)
+
 
 * **Reflexión:** *Aprendí a diferenciar el sujeto bajo prueba y dependencias usando mocks. Mejoraría la cobertura con más casos negativos.*
 
