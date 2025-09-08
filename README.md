@@ -53,7 +53,17 @@
 * **Descripción:** Validación de endpoints REST en un sistema de reservas.
 * **Objetivo:** Garantizar integridad de respuestas JSON y status codes.
 * **Tecnologías:** Postman, Newman.
-* **Repositorio:** [api-testing-reservas](https://github.com/sofia-smith/api-testing-reservas)
+
+#### 📌 Repositorios  
+* **Actividad 1:** [Inicio de Sesión Automatizado con Cucumber + Selenium](https://github.com/kenkairon/kenkairon-Activida1-Modulo5-Carlos-Vasquez-Act1)
+
+* **Actividad 2:** [BDD - Práctica de Inicio de Sesión](https://github.com/kenkairon/Actividad2-Modulo5-Carlos-Vasquez)
+
+* **Actividad 3:** [BDD Login Project](https://github.com/kenkairon/Actividad3-Modulo5-Carlos-Vasquez)
+
+* **Actividad 4:** [Validación de Transferencias Bancarias - BDD con Cucumber](https://github.com/kenkairon/Actividad5-Modulo5-Carlos-Vasquez)
+
+
 * **Reflexión:** *Pude integrar pruebas newman Mejoraría el coverage incluyendo pruebas de error*
 
 
