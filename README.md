@@ -19,6 +19,10 @@
 
 - **Actividad 5:** [NotificationCenter](https://github.com/kenkairon/Modulo3-Activida5-Carlos-Vasquez)
 
+- **Actividad 6:** [TaskManager - Sistema de Gestión de Tareas con TestNG](https://github.com/kenkairon/Modulo3-Activida6-NombreApellido-Grupo4)
+
+- **Módulo Final:** [CodeWave - Módulo de Reservas Deportivas](https://github.com/kenkairon/EvaluacionModular3Nombre-ApellidoGrupo4)
+
 * **Reflexión:** *Aprendí a diferenciar el sujeto bajo prueba y dependencias usando mocks. Mejoraría la cobertura con más casos negativos.*
 
 ### 2. 🌐 Automatización Funcional con Selenium (Módulo 4)
