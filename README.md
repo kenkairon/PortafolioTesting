@@ -30,7 +30,12 @@
 * **Descripción:** Automatización de login y flujo de compra en e-commerce.
 * **Objetivo:** Validar la experiencia de usuario en escenarios críticos.
 * **Tecnologías:** Java, Selenium WebDriver, TestNG, WebDriverManager.
+
+#### 📌 Repositorios  
 * **Actividad 1:** [Validacion Básica de Múltples Sitios Web](https://github.com/kenkairon/Modulo4-Actividad1-CarlosVasquez)
+
+* **Actividad 2:** [Automatización de un Formulario de Registro con Selenium WebDriver](https://github.com/kenkairon/modulo4Actividad4CarlosVasquez)
+
 
 
 * **Reflexión:** *Me permitió aplicar el patrón POM y ejecutar pruebas*
