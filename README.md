@@ -17,6 +17,8 @@
 
 - **Actividad 4:** [Gestor de Tareas con TDD](https://github.com/kenkairon/Modulo3-Activida4-NombreApellido-Grupo4)
 
+- **Actividad 5:** [NotificationCenter](https://github.com/kenkairon/Modulo3-Activida5-Carlos-Vasquez)
+
 * **Reflexión:** *Aprendí a diferenciar el sujeto bajo prueba y dependencias usando mocks. Mejoraría la cobertura con más casos negativos.*
 
 ### 2. 🌐 Automatización Funcional con Selenium (Módulo 4)
