@@ -45,15 +45,6 @@
 * **Descripción:** Automatización de historias clínicas con enfoque BDD.
 * **Objetivo:** Validar login, registro de fichas y reglas de negocio usando Gherkin.
 * **Tecnologías:** Java, Selenium, Cucumber, Maven.
-* **Repositorio:** [bdd-clinica](https://github.com/sofia-smith/bdd-clinica)
-* **Reflexión:** *Aprendí a escribir escenarios en lenguaje natural para facilitar la comunicación con “los 3 amigos”. Mejoraría la parametrización de datos.*
-
-### 4. 🔌 API Testing con Postman y Newman (Módulo 6)
-
-* **Descripción:** Validación de endpoints REST en un sistema de reservas.
-* **Objetivo:** Garantizar integridad de respuestas JSON y status codes.
-* **Tecnologías:** Postman, Newman.
-
 #### 📌 Repositorios  
 * **Actividad 1:** [Inicio de Sesión Automatizado con Cucumber + Selenium](https://github.com/kenkairon/kenkairon-Activida1-Modulo5-Carlos-Vasquez-Act1)
 
@@ -62,6 +53,16 @@
 * **Actividad 3:** [BDD Login Project](https://github.com/kenkairon/Actividad3-Modulo5-Carlos-Vasquez)
 
 * **Actividad 4:** [Validación de Transferencias Bancarias - BDD con Cucumber](https://github.com/kenkairon/Actividad5-Modulo5-Carlos-Vasquez)
+
+* **Reflexión:** *Aprendí a escribir escenarios en lenguaje natural para facilitar la comunicación con “los 3 amigos”. Mejoraría la parametrización de datos.*
+
+### 4. 🔌 API Testing con Postman y Newman (Módulo 6)
+
+* **Descripción:** Validación de endpoints REST en un sistema de reservas.
+* **Objetivo:** Garantizar integridad de respuestas JSON y status codes.
+* **Tecnologías:** Postman, Newman.
+
+
 
 
 * **Reflexión:** *Pude integrar pruebas newman Mejoraría el coverage incluyendo pruebas de error*
