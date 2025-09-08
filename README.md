@@ -15,6 +15,7 @@
 
 - **Actividad 3:** [Sitema de Gestión con TDD](https://github.com/kenkairon/Modulo3-Sesion2-Actividad3-SistemaGestionProductosTDD)
 
+- **Actividad 4:** [Gestor de Tareas con TDD](https://github.com/kenkairon/Modulo3-Activida4-NombreApellido-Grupo4)
 
 * **Reflexión:** *Aprendí a diferenciar el sujeto bajo prueba y dependencias usando mocks. Mejoraría la cobertura con más casos negativos.*
 
