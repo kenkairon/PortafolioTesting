@@ -30,7 +30,9 @@
 * **Descripción:** Automatización de login y flujo de compra en e-commerce.
 * **Objetivo:** Validar la experiencia de usuario en escenarios críticos.
 * **Tecnologías:** Java, Selenium WebDriver, TestNG, WebDriverManager.
-* **Repositorio:** [selenium-ecommerce](https://github.com/sofia-smith/selenium-ecommerce)
+* **Actividad 1:** [Validacion Básica de Múltples Sitios Web](https://github.com/kenkairon/Modulo4-Actividad1-CarlosVasquez)
+
+
 * **Reflexión:** *Me permitió aplicar el patrón POM y ejecutar pruebas*
 
 ### 3. 📖 Pruebas BDD con Cucumber (Módulo 5)
