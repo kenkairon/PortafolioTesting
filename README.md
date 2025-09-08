@@ -61,9 +61,8 @@
 * **Descripción:** Validación de endpoints REST en un sistema de reservas.
 * **Objetivo:** Garantizar integridad de respuestas JSON y status codes.
 * **Tecnologías:** Postman, Newman.
-
-
-
+#### 📌 Repositorios  
+* **Actividad 1:** [Api Productos](https://github.com/kenkairon/Modulo6-Api-Productos)
 
 * **Reflexión:** *Pude integrar pruebas newman Mejoraría el coverage incluyendo pruebas de error*
 
@@ -73,7 +72,12 @@
 * **Descripción:** Simulación de 50 usuarios concurrentes en sitio BlazeDemo.
 * **Objetivo:** Identificar el límite de carga del servidor y proponer mejoras.
 * **Tecnologías:** Apache JMeter.
-* **Repositorio:** [jmeter-blazedemo](https://github.com/sofia-smith/jmeter-blazedemo)
+#### 📌 Repositorios  
+* **Actividad 1:** [ Informe de Resultados de Pruebas de Rendimiento](https://github.com/kenkairon/Modulo7-Actividad1-CarlosVasquez)
+
+* **Actividad 2:** [Pruebas de Rendimiento](https://github.com/kenkairon/Modulo7-Actividad2-NombreApellido-Grupo4)
+
+* **Actividad 3:** [ Informe de Pruebas de Carga con JMeter](https://github.com/kenkairon/Modulo7-Actividad4-NombreApellido-Grupo4)
 * **Reflexión:** *Aprendí a usar timers y assertions para validar rendimiento realista. Mejoraría la parametrización con CSVs más variados.*
 
 ## 🎥 Presentación Audiovisual
