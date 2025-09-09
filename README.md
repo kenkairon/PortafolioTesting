@@ -88,7 +88,7 @@ En el video se muestra:
 * Demo de automatización de login en e-commerce.
 * Explicación de integración Newman para API testing.
 
-👉 Enlace: [YouTube – Demo Portafolio Sofía Smith](https://youtu.be/sofia-smith-demo)
+👉 Enlace: [YouTube – Demo Portafolio Carlos Vasquez](https://www.youtube.com/@rolo084)
 
 
 ## 🎨 Diseño y Organización
